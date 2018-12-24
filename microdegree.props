@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+
+export MICRODEGREE_NAME="Quantum Computing"
+export MICRODEGREE_DESCRIPTION="Quantum Computing for Mortals"
+export MICRODEGREE_GITHUB_REPO="quantum-computing-for-mortals"
+export MICRODEGREE_PACKAGE_NAME="quantum"
