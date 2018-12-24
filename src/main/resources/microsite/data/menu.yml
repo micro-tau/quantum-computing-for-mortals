@@ -1,0 +1,26 @@
+options:
+
+    #############################
+    # DOCUMENTATION
+    #############################
+
+  - title: Welcome!
+    url: docs.html
+    menu_type: docs
+
+  - title: M1 - Introduction
+    url: docs/1-module.html
+    menu_type: docs
+
+    #############################
+    # SLIDES
+    #############################
+
+  - title: Welcome!
+    url: slides.html
+    menu_type: slides
+
+  - title: 1-1 Introduction
+    url: slides/1-1.html
+    menu_type: slides
+
